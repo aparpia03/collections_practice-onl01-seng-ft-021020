@@ -4,5 +4,5 @@ end
 
 
 def sort_array_dec(array)
-
+array.sort!
 end  
