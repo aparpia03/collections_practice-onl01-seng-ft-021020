@@ -10,5 +10,7 @@ def sort_array_desc(array)
 end  
 
 def sort_array_char_count(strings)
-  return strings.length.sort 
+  length_of_array = strings.lenth
+  return length_array.sort 
+  
 end  
