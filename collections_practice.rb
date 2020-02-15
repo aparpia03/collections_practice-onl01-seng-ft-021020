@@ -40,5 +40,9 @@ def sum_array(int)
   int.inject(0){|sum,x| sum + x }
 end   
 
-def 
+def add_s(word)
+  word.collect do |a|
+    
+  end 
+end   
   
