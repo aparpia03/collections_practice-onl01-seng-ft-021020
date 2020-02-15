@@ -4,7 +4,7 @@ end
 
 
 def sort_array_dec(array)
-array.sort do |a,b|
-  return b <=> a
+new_array = array.sort
+return new_array.reverse
   end
 end  
