@@ -14,3 +14,13 @@ def sort_array_char_count(strings)
     a.length <=> b.length 
   end
 end  
+
+def swap_elements(array)
+
+  
+end  
+
+def reverse_array(int)
+  new_array = int.sort
+  return new_array.reverse
+end  
