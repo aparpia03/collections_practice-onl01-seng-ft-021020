@@ -21,6 +21,5 @@ def swap_elements(array)
 end  
 
 def reverse_array(int)
-  new_array = int.sort
- new_array.reverse
+ return int.reverse
 end  
