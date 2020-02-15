@@ -41,6 +41,7 @@ end
 
 def add_s(word)
   word.collect do |a|
+    if word[1] == 
     
   end 
 end   
