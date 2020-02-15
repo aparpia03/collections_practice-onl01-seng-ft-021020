@@ -39,4 +39,6 @@ end
 def sum_array(int)
   int.inject(0){|sum,x| sum + x }
 end   
+
+def 
   
