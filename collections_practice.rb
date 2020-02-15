@@ -4,7 +4,8 @@ end
 
 
 def sort_array_dec(array)
+  new_array = []
 array.sort do |a,b|
-  b <=> a
+  new_array << b <=> a
   end
 end  
