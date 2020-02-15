@@ -22,5 +22,5 @@ end
 
 def reverse_array(int)
   new_array = int.sort
-  return new_array.reverse
+ new_array.reverse
 end  
