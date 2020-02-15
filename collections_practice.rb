@@ -29,3 +29,7 @@ def kesha_maker(string)
  item[2] = "$"
  end
 end   
+
+def find_a(array)
+  
+end   
