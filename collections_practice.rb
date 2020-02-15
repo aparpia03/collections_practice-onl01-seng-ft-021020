@@ -10,6 +10,7 @@ def sort_array_desc(array)
 end  
 
 def sort_array_char_count(strings)
-  length_of_array = strings.length
-  return length_array.sort 
+  strings.sort do |a.length, b.length|
+    a <=> b
+  end
 end  
